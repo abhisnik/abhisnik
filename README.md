@@ -100,7 +100,7 @@ microcontrollers, and Telegram-based remote notifications.
 
 ## 🏆 Hackathon
 
-### Smart India Hackathon 2026 — Team Vortox
+### Smart India Hackathon 2026 — Team Vortex
 
 **Project:** MediKiosk  
 **Role:** Full-Stack & System Lead  
